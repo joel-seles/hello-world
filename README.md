@@ -8,4 +8,4 @@ I'll be focusing on teaching myself Python so I can apply it to what I do at wor
 
 Next steps are branching out into Greasemonkey and other browser (FF ESR and Chrome / Chromium) add-ons. GM script by June 30.
 
-Line breaks appear to happen with a blank line. 
+Line breaks happen with a blank line, or else text continues on the same string.
